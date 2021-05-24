@@ -1,0 +1,44 @@
+i {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.navbar-brand {
+  color: green !important;
+}
+
+.carousel-inner {
+  height: 600px;
+}
+
+.cart {
+  background-color: #e7e7e7;
+  border-radius: 20px;
+  margin: 3% 10%;
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-products {
+  display: flex;
+  justify-content: center;
+  margin: 5%;
+}
+
+.product-card {
+  margin: 0 20px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 5%;
+}
+
+.product-card img {
+  height: 300px;
+}
+
+.fa-trash-alt {
+  color: #dd6b5c;
+}
