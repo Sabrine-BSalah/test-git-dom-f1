@@ -59,5 +59,3 @@ function total() {
     console.log(s)
     totalPrice.innerText = s
 }
-
-
